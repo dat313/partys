@@ -5,6 +5,7 @@ This repository contains a minimal Laravel skeleton with an ECMAScript wizard fo
 ## Setup
 1. Install PHP and Composer.
 2. Run `composer install` to install Laravel dependencies listed in `composer.json`.
+ main
 3. Configure your `.env` file and set up mail credentials.
 4. Serve the application using `php artisan serve`.
 
